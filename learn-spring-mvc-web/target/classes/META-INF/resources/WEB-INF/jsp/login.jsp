@@ -6,11 +6,10 @@
     <title>Login To Todo</title>
 </head>
 <link href="/webjars/bootstrap/5.3.1/css/bootstrap.min.css" rel="stylesheet">
-<body>
+<body class="bg-dark bg-gradient">
 
 <style>
 body{
-    background-color: rgba(63, 55, 55, 0.553);
     height: 100vh;
     width: 100%;
     display: flex;
@@ -21,7 +20,7 @@ body{
 .container{
     width: 400px;
     height: 400px;
-    background: #f9fdf8c7;
+    background: hsla(0, 0%, 100%, 0.721);
     display: flex;
     align-items: center;
     justify-content: center;
